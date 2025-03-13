@@ -11,7 +11,7 @@ This repository contains several Bash scripts for task automation, computer secu
 | `scan_ports.sh` | Scan open ports on a host |
 | `idor_finder.sh` | Searches for IDOR vulnerabilities in URLs |
 
-## 🚀 Uso
+## 🚀 How to use / execute
 To run a script, make sure it has execute permissions:
 ```bash
 chmod +x script.sh 
