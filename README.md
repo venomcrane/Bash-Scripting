@@ -10,6 +10,7 @@ This repository contains several Bash scripts for task automation, computer secu
 | `backup.sh` | Backs up files and directories |
 | `scan_ports.sh` | Scan open ports on a host |
 | `idor_finder.sh` | Searches for IDOR vulnerabilities in URLs |
+| `hostScan.sh` | Scan hosts in a given Network  |
 
 ## 🚀 How to use / execute
 To run a script, make sure it has execute permissions:
